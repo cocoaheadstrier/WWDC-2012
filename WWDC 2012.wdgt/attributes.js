@@ -11,7 +11,7 @@ var attributes = {
     "reachedActionIndex": "0",
     "sharediCalURL": "",
     "showLeadingZeros": "1",
-    "targetDateTime": new Date("15 Jun 2012 10:00:00 +0200"),
+    "targetDateTime": new Date("11 Jun 2012 10:00:00 -0700"),
     "targetKind": "0",
     "zeroAction": "alert(\"Event reached\")"
 };
